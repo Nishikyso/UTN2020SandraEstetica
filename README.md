@@ -1,2 +1,2 @@
-# UTN2020SandraEstetica
-Proyecto para el curso Desarrollador Webmaster de UTN, año 2020 (re-subido sin cambiar nada)
+# UTN-ProyectoFinal
+Proyecto final UTN Webmaster 2020: Sandra Estética.
